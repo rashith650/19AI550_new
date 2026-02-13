@@ -1,6 +1,7 @@
+
 # Ex.No: 3  Basic movements in Unity 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 13/02/2026                                                                           
+### REGISTER NUMBER : 212223243003
 ### AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
 ### Procedure:
@@ -57,6 +58,8 @@ public class TransformOperations : MonoBehaviour
 }
 ```
 ### Output:
+<img width="851" height="949" alt="Screenshot 2026-02-02 111714" src="https://github.com/user-attachments/assets/fca801c3-054b-454e-8898-03f1810e6414" />
+
 
 
 
@@ -67,5 +70,3 @@ public class TransformOperations : MonoBehaviour
 
 ### Result:
 Thus the basic movement is learned through scripting
-
-
